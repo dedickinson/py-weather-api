@@ -1,0 +1,8 @@
+__title__ = 'py-weather-api'
+__description__ = 'Library for weather data'
+__url__ = 'https://github.com/dedickinson/py-weather-api'
+__version__ = '0.1.0'
+__author__ = 'Duncan Dickinson'
+__author_email__ = 'duncan@dickinson.name'
+__license__ = 'BSD 2-Clause License'
+__copyright__ = 'Copyright 2018 Duncan Dickinson'

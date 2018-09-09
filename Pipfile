@@ -4,17 +4,23 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
+requests = ">=2.19"
 dataclasses = "*"
-measurement = "*"
+measurement = ">=2"
 pycountry = "*"
 
 [dev-packages]
-pytest = "*"
-pylint = "*"
-pandas = "*"
+pytest = ">=3.8"
+pylint = ">=1.8"
+pandas = ">=0.23"
 babel = "*"
 jupyter = "*"
+tox = "*"
+detox = "*"
+"flake8" = "*"
+sphinx = "*"
+defusedxml = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"
